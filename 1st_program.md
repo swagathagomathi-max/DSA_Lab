@@ -33,4 +33,4 @@ exit(0);
 }
 
 Output:
-
+<img width="556" height="636" alt="output_1_dsa" src="https://github.com/user-attachments/assets/68b95aec-570e-4736-be99-1b3822828774" />
