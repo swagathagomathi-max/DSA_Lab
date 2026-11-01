@@ -77,11 +77,10 @@ exit(0);
 default:
 printf("Invalid choice!\n");
 }
+}
+return 0;
+}
 
 Output:
 
 <img width="340" height="724" alt="output_2_dsa" src="https://github.com/user-attachments/assets/937676c7-f078-4e86-b061-cd2057875b2c" />
-
-}
-return 0;
-}
